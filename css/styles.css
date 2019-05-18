@@ -1,3 +1,42 @@
-.text_center{
-    text-align: center;
+.footer{
+    background-color:rgb(211,211,211);
+    padding:5px;
+}
+.row-header{
+    font-family:"arial";
+    color: aliceblue;
+   
+}
+.col-header{
+    margin:0px;
+}
+.history{
+    padding-bottom: 20px
+}
+.about_us{
+    padding-top:0px;
+}
+.row{
+    margin:20px;
+}
+.space{
+    margin:80px;
+}
+
+#border{
+    border: 9px;
+}
+body{
+    padding: 0px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark{
+background-color: black;
+}
+.navbar-brand{
+    background-color: aliceblue;
+}
+a:hover{
+    font-size: 24px;
+    color: blue;
 }
