@@ -1,0 +1,60 @@
+.footer{
+    background-color:rgb(211,211,211);
+    padding:5px;
+}
+.row-header{
+    font-family:"arial";
+    color: aliceblue;
+   
+}
+.col-header{
+    margin:0px;
+}
+.history{
+    padding-bottom: 20px
+}
+.about_us{
+    padding-top:0px;
+}
+.row{
+    margin:40px;
+    border: 20px
+}
+.space{
+    margin:100px;
+}
+
+#border{
+    border: 9px;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark{
+background-color: black;
+}
+.navbar-brand{
+    background-color: aliceblue;
+}
+.tab-content{
+    border: 1px solid black;
+}
+
+.carousel{
+    background: #512DAB;
+}
+.carousel-item{
+    height:300px;
+}
+.carousel-item img{
+    position:absolute;
+    top:0;
+    left:0;
+    min-height: 300px;
+}
+#carousel-button {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
